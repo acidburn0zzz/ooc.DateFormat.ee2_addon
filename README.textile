@@ -1,0 +1,13 @@
+h1. Allow formatting of comment_expiration_date date variable
+
+by James Riordon, <a href="http://outofcontrol.ca/projects">outofcontrol.ca</a>
+
+h2. Change Log
+
+*0.1.1, August 22nd 2010*
+
+* Added EE Version disclaimer. Only works on EE 1.6.8
+
+*0.1.0, May 4th 2010*
+
+* First check in.
