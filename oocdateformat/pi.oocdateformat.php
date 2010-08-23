@@ -4,7 +4,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 $plugin_info = array(
 						'pi_name'			=> 'ooc Date Format',
-						'pi_version'		=> '1.0',
+						'pi_version'		=> '0.1.0',
 						'pi_author'			=> 'James Riordon',
 						'pi_author_url'		=> 'http://outofcontrol.ca/projects/oocDateFormat',
 						'pi_description'	=> 'Returns a formatted comment_expiry_date for the current entry. EE2',
@@ -77,4 +77,4 @@ class oocDateFormat {
 // END CLASS
 
 /* End of file pi.oocdateformat.php */
-/* Location: ./system/expressionengine/plugins/pi.oocdateformat.php */
+/* Location: ./system/expressionengine/third_party/oocdateformat/pi.oocdateformat.php */
